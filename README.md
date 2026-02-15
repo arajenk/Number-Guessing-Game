@@ -1,2 +1,11 @@
-# Number-Guessing-Game
-A simple menu based CLI number guessing game programmed in Go to practice.
+# Go Number Guessing Game
+
+A CLI number guessing game built in Go for syntax and control flow practice.
+
+## Features
+- Difficulty selection
+- Guess tracking
+- Replay support
+- Random number generation
+
+Built independently as practice.
