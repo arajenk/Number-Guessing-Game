@@ -9,3 +9,5 @@ A CLI number guessing game built in Go for syntax and control flow practice.
 - Random number generation
 
 Built independently as practice.
+
+https://roadmap.sh/projects/number-guessing-game
