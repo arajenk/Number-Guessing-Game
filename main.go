@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math/rand/v2"
 )
-func numberMaker() int {
+func numberGenerator() int {
 	min := 1
 	max := 100
 	return (min + rand.IntN(max-min+1))
@@ -38,7 +38,7 @@ func main(){
 			maxNumGuesses = 3
 		}
 
-		number = numberMaker()
+		number = numberGenerator()
 		for{
 			fmt.Print("Enter your guess: ")
 			fmt.Scan(&guess)
